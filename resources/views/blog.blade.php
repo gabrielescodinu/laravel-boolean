@@ -7,16 +7,16 @@
     <title>Blog</title>
 </head>
 <style>
-.articolo {
-    border: 1px solid black;
-    padding: 20px;
-    margin: 20px;
-}
-a {
-    text-decoration: none;
-    color: black;
-    margin-left: 20px;
-}
+    .articolo {
+        border: 1px solid black;
+        padding: 20px;
+        margin: 20px;
+    }
+    a {
+        text-decoration: none;
+        color: black;
+        margin-left: 20px;
+    }
 
 </style>
 <body>
